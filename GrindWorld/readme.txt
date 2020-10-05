@@ -1,0 +1,3 @@
+
+einforcement learning is an area of machine learning concerned with how software agents should to take actions in an environment in order to maximize some concept of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
+Grid world is one of the simplest RL examples, we define a game where a robot learns to find an optimal path in a room to a target while avoiding traps. It is a little gym where one can practice a different algorithm and use different knowledge gain during class to improve it understanding and gain confidence in using such. For small problems it is also possible to compare learnt policies with the optimal one by evaluating the number of differences. 
